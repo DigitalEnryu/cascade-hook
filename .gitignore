@@ -1,0 +1,4 @@
+# Machine-local log written by the Stop hook. Holds snippets of real replies. Never commit.
+compliance.log
+*.cascade-backup-*
+*.cascade-tmp
